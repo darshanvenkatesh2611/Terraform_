@@ -18,3 +18,12 @@ To Check if the installation is complete:
 
 which aws
 aws --version
+
+
+Terraform Commands:
+
+Terraform init
+Terraform plan
+Terraform apply
+Terraform show
+Terraform state list
