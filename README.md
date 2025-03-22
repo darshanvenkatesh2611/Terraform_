@@ -23,7 +23,11 @@ aws --version
 Terraform Commands:
 
 Terraform init
+
 Terraform plan
+
 Terraform apply
+
 Terraform show
+
 Terraform state list
