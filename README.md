@@ -31,3 +31,5 @@ Terraform apply
 Terraform show
 
 Terraform state list
+
+Terraform validate
